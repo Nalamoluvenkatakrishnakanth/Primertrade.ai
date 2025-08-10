@@ -1,5 +1,5 @@
 
-# Project: Trader Behavior Insights – Bitcoin Market Sentiment Analysis
+# Trader Behavior Insights – Bitcoin Market Sentiment Analysis
 
 ### Overview
 
